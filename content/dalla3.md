@@ -1,10 +1,11 @@
 ---
-title: "Exploitation du logiciel"
-metaTitle: "Exploitation du logiciel"
-metaDescription: "Exploitation du logiciel"
+title: "Test"
+metaTitle: "Test"
+metaDescription: "Test"
 ---
 
-A l’ouverture du logiciel, la toute première fenêtre affichée par un logiciel est un splash screen apparait comporte des informations sur le test QI en général.
+Le patient passe le test sous forme de quiz, pour chaque matrice il analyse bien les positions et les relations adaptées puis il choisit le bon choix. 
+
 
 ![test image](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/intro.png?raw=true)
 
