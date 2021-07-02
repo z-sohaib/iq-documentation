@@ -97,13 +97,13 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                   className={'img-responsive displayInline'}
                   src={logoImg}
                   alt={'logo'}
-                  style={{width: '60px', height: '50px', marginRight: '10px'}}
+                  style={{width: '200px', height: '50px', marginRight: '10px'}}
                 />
               {/* </Link> */}
-              <div
+              {/* <div
                 className={'headerTitle displayInline'}
                 dangerouslySetInnerHTML={{ __html: headerTitle }}
-              />
+              /> */}
             </div>
             {isSearchEnabled ? (
               <div className={'searchWrapper hiddenMobile navBarUL'}>
