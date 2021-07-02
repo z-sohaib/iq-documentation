@@ -1,10 +1,12 @@
 ---
-title: "Syntax Highlighting"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "Exploitation du logiciel"
+metaTitle: "Exploitation du logiciel"
+metaDescription: "Exploitation du logiciel"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+A l’ouverture du logiciel, la toute première fenêtre affichée par un logiciel est un splash screen apparait comporte des informations sur le test QI en général.
+
+
 
 ```javascript
 import React from 'react';

@@ -4,6 +4,9 @@ const config = require("./config");
 const plugins = [
   'gatsby-plugin-sitemap',
   'gatsby-plugin-sharp',
+  'gatsby-plugin-image',
+  'gatsby-plugin-sharp',
+  'gatsby-transformer-sharp',
   {
     resolve: `gatsby-plugin-layout`,
     options: {
