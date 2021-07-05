@@ -6,6 +6,8 @@ metaDescription: "This is the meta description for this page"
 
 Pour le psychologue il a deux options:
 
+![frame](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/capture/page_org.PNG?raw=true)
+
 En cliquant sur l’option du individuels, cette fenêtre s’affiche: 
 
 

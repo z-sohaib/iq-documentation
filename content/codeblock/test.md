@@ -1,7 +1,8 @@
 ---
-title: "b. Menu principale"
+title: "c. Test"
 metaTitle: "TestIQ"
 metaDescription: "This is the meta description for this page"
 ---
 
-Après que le patient soit connecté, il tombe dans la page du menu principal ou il a deux choix: soit il passe un test, soit il affiche les résultats.
+Le patient passe le test sous forme de quiz, pour chaque matrice il analyse bien les positions et les relations adaptées puis il choisit le bon choix. 
+
