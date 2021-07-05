@@ -1,6 +1,6 @@
 ---
 title: "A propos du logiciel"
-metaTitle: "A propos du logiciel"
+metaTitle: "TestIQ"
 metaDescription: "A propos du logiciel"
 ---
 

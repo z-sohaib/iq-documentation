@@ -7,6 +7,11 @@ export default function ThemeProvider({ children, theme = {}, location }) {
   return (
     <div>
       <Header location={location} />
+      <Helmet>
+          <meta charSet="utf-8" />
+          <title>My Title</title>
+          <link rel="canonical" href="http://mysite.com/example" />
+        </Helmet>
       <EmotionThemeProvider theme={{ ...defaultTheme, ...theme }}>{children}</EmotionThemeProvider>
     </div>
   );

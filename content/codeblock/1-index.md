@@ -1,6 +1,6 @@
 ---
 title: "a. Authentification"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaTitle: "TestIQ"
 metaDescription: "This is the meta description for this page"
 ---
 

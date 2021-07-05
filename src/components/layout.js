@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { MDXProvider } from '@mdx-js/react';
-
+import { Helmet } from 'react-helmet';
 import ThemeProvider from './theme/themeProvider';
 import mdxComponents from './mdxComponents';
 import Sidebar from './sidebar';

@@ -1,6 +1,6 @@
 ---
 title: "Exploitation du logiciel"
-metaTitle: "Exploitation du logiciel"
+metaTitle: "TestIQ"
 metaDescription: "Exploitation du logiciel"
 ---
 
