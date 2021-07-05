@@ -55,7 +55,7 @@ const config = {
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
     docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    favicon: 'https://github.com/z-sohaib/iq-documentation/blob/main/src/images/black_logo.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
