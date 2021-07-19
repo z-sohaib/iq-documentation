@@ -13,3 +13,4 @@ On a trois types d’authentification selon l’utilisateur :
 
 ![frame](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/capture/inscrir_patient.PNG?raw=true)
 
+
