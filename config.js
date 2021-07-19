@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
+    logo: 'https://github.com/z-sohaib/iq-documentation/blob/main/src/images/black_logo.png',
     logoLink: 'https://hasura.io/learn/',
     title:
       "<a href='https://hasura.io/learn/'>MatrIQ</a>",
