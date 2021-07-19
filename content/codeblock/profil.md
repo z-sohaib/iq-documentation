@@ -1,5 +1,5 @@
 ---
-title: "e.profil"
+title: "e. Profil"
 metaTitle: "TestIQ"
 metaDescription: "This is the meta description for this page"
 ---
