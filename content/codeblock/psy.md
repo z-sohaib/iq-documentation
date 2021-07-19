@@ -26,9 +26,9 @@ Le psychologue a également le droit d'ajouter une remarque au test en double-cl
 
 En cliquant sur Statistique Globale, on passe vers une autre fenêtre qui affiche:
 
-![frame](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/capture/org_affiche_glob.PNG?raw=true)
+![frame](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/capture/org_affich_glob.PNG?raw=true)
 
-Sauvegarde et Restauration: 
+## Sauvegarde et Restauration: 
 
  - Dans le cas où le psychologue supprime les utilisateurs par erreur et souhaite les restaurer, nous avons la possibilité de restaurer une ancienne copie de la base de données en cliquant sur le bouton restaurer ,Puis il choisit la version dont il a besoin. 
   - Il peut également sauvegarder une version actuelle de la base de données pour une utilisation prochaine en cliquant sur le bouton Sauvegarder puis en choisissant le chemin où il souhaite enregistrer la version . 

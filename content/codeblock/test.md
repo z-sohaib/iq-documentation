@@ -11,3 +11,5 @@ Pour l’organisation, il a deux choix :
 ![frame](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/capture/org_affich_glob.PNG?raw=true)
 
  - Affichage de tous membres : contient une liste de tous les patients qui appartient à l’organisation avec ses informations personnelles.
+
+![frame](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/capture/tab_org.PNG?raw=true)
