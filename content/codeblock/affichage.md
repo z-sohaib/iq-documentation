@@ -1,7 +1,15 @@
 ---
-title: "d. Affichage"
+title: "a. Authentification"
 metaTitle: "TestIQ"
 metaDescription: "This is the meta description for this page"
 ---
 
-Il y a deux types d’affichages, un concerne les résultats du dernier test et un autre comporte les résultats de tous les tests.
+On a trois types d’authentification selon l’utilisateur :
+
+ - Patient: il doit saisir son mail et le mot de passe pour se connecter ou remplir les champs pour s’inscrire et créer un compte.
+ - Même chose pour le psychologue et l’organisation
+
+![frame](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/capture/connecter_patient.PNG?raw=true)
+
+![frame](https://github.com/z-sohaib/iq-documentation/blob/main/src/images/capture/inscrir_patient.PNG?raw=true)
+
